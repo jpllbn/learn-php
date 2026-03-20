@@ -1,6 +1,3 @@
-# learn-php
-Learning PHP
-
 # PHP · OOP · Design Patterns
 ## A Checklist Roadmap
 
